@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<!DOCTYPE student
+[
+<!ELEMENT student (firstName,lastName,id,plan+)>
+<!ELEMENT firstName (#PCDATA)> 
+<!ELEMENT lastName (#PCDATA)> 
+<!ELEMENT id (#PCDATA)> 
+<!ELEMENT plan (courses)>
+<!ATTLIST courses year CDATA #REQUIRED>
+<!ELEMENT courses (course+)>
+
+<!ELEMENT course (name,shortName,record)>
+<!ELEMENT name (#PCDATA)> 
+<!ELEMENT shortName (#PCDATA)> 
+
+<!ELEMENT record (grade,date)>
+<!ELEMENT grade (#PCDATA)> 
+<!ELEMENT date (#PCDATA)> 
+]>
+<student>
+	<firstName>Nguyen</firstName>
+	<lastName></lastName>
+	<id></id>
+	<plan>
+			<courses year="1">
+							<course>
+										<name>Lap trinh di dong</name>
+										<shortName>PRO</shortName>
+										<record>
+												<grade>30</grade>
+												<date>13/06/2021</date>
+										</record>
+							</course>
+
+							<course>
+										<name>Lap trinh di dong</name>
+										<shortName>PRO</shortName>
+										<record>
+												<grade>30</grade>
+												<date>13/06/2021</date>
+										</record>
+							</course>
+</courses>
+</plan>
+</student>

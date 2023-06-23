@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE student
+[
+<!ELEMENT student (firstName,lastName,id,plan+)>
+<!ELEMENT firstName (#PCDATA)> 
+<!ELEMENT lastName (#PCDATA)> 
+<!ELEMENT id (#PCDATA)> 
+<!ELEMENT plan (#PCDATA)> 
+<!ELEMENT plan (courses+)>
+<!ELEMENT courses (year,course+)>
+<!ELEMENT course (#PCDATA)> 
+<!ELEMENT year (#PCDATA)> 
+<!ELEMENT name (#PCDATA)> 
+<!ELEMENT shortName (#PCDATA)> 
+<!ELEMENT record (#PCDATA)> 
+<!ELEMENT course (name,shortName,record)> 
+<!ELEMENT name (#PCDATA)> 
+<!ELEMENT shortName (#PCDATA)> 
+<!ELEMENT record (#PCDATA)> 
+<!ELEMENT record(grade,date)>
+<!ELEMENT grade (#PCDATA)> 
+<!ELEMENT date (#PCDATA)> 
+]>
+<

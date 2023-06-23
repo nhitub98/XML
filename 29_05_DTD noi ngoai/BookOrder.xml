@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <BookOrder>
-<OrderDate></OrderDate>
+<OrderDate/>
 <Customer>
 <Title>HTML5</Title>
 <FirstName>201t</FirstName>

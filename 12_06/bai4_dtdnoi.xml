@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<!DOCTYPE phieudiem
+[
+<!ELEMENT phieudiem (student+)>
+<!ELEMENT student (hoten,lop,diachi,gioitinh,ngaysinh,bangdiem)>
+<!ELEMENT hoten (#PCDATA)> 
+<!ELEMENT lop (#PCDATA)> 
+<!ELEMENT diachi (#PCDATA)> 
+<!ELEMENT gioitinh (#PCDATA)> 
+<!ELEMENT ngaysinh (#PCDATA)> 
+<!ELEMENT bangdiem (stt+,tenmon+,diemhk1+,diemhk2+,dtb+)>
+<!ELEMENT stt (#PCDATA)> 
+<!ELEMENT tenmon (#PCDATA)> 
+<!ELEMENT diemhk1 (#PCDATA)> 
+<!ELEMENT diemhk2 (#PCDATA)> 
+<!ELEMENT dtb (#PCDATA)> 
+]>
+<phieudiem>
+<student>
+<hoten>Luong Thu Hien</hoten>
+<lop>5201000</lop>
+<diachi>Quang Ninh</diachi>
+<gioitinh>Nu</gioitinh>
+<ngaysinh>20/01/1998</ngaysinh>
+<bangdiem>
+<stt>1</stt>
+<tenmon>CSDL</tenmon>
+<diemhk1>9</diemhk1>
+<diemhk2>9</diemhk2>
+<dtb>9</dtb>
+</bangdiem>
+</student>
+</phieudiem>

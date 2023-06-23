@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<project name="02_06.xwp" homepath="C:\Users\admin\Desktop\XML\02_06" example_xsl="" example_xml="" output_folder="" output_ext="">
+	<group name="DTD/Schema Files" filter="*.dtd;*.xsd" description="This folder contains DTDs and XML Schema Files." example_xml="" example_xsl="" output_folder="" output_ext=""/>
+	<group name="Stylesheets" filter="*.css;*.xsl;*.xslt" description="This folder contains CSS and XSLT Stylesheets." example_xml="" example_xsl="" output_folder="" output_ext="">
+		<file path="C:\Users\admin\Desktop\XML\02_06\timmax.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="C:\Users\admin\Desktop\XML\02_06\pheptoan.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="C:\Users\admin\Desktop\XML\02_06\sanpham.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl="">
+			<open caret_pos_x="0" caret_pos_y="40" sel_start_x="0" sel_start_y="0" sel_end_x="0" sel_end_y="40" window_x1="-7" window_x2="1049" window_y1="124" window_y2="498" state="1"/>
+		</file>
+	</group>
+	<group name="XML Files" filter="*.xml" description="This folder contains XML Files." example_xml="" example_xsl="" output_folder="" output_ext="">
+		<file path="C:\Users\admin\Desktop\XML\02_06\timmax.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="C:\Users\admin\Desktop\XML\02_06\pheptoan.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="C:\Users\admin\Desktop\XML\02_06\sanpham.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl="">
+			<open caret_pos_x="14" caret_pos_y="26" sel_start_x="0" sel_start_y="0" sel_end_x="14" sel_end_y="26" window_x1="0" window_x2="1056" window_y1="0" window_y2="374" state="1"/>
+		</file>
+	</group>
+	<group name="Output Files" filter="*.htm;*.html" description="This folder receives output from XSL transformations." example_xml="" example_xsl="" output_folder="" output_ext=""/>
+</project>

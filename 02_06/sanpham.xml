@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="C:\Users\admin\Desktop\XML\02_06\sanpham.xsl"?>
+<productdata>
+  <product productID="1">
+    <ten>lap trinh C</ten>
+    <mota>tin hoc</mota>
+    <gia>500000</gia>
+    <soluong>10</soluong>
+  </product>
+  
+   <product productID="2">
+  
+    <ten>su tich so dua</ten>
+    <mota>van hoc</mota>
+    <gia>60000</gia>
+    <soluong>5</soluong>
+  </product>
+  
+   <product productID="3">
+   
+    <ten>nghe thuat dam phan</ten>
+    <mota>truyen ngan</mota>
+    <gia>180000</gia>
+    <soluong>7</soluong>
+  </product>
+  
+</productdata>
