@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<listcustomers>
+  <customer id="3">
+  <name>Cuc</name>
+ <age>29</age>
+<phone>0396312298</phone>
+  </customer>
+
+<customer id="5">
+<name>hien</name>
+<age>25</age>
+<phone>01684648472</phone>
+</customer>
+
+<customer id="6">
+<name>thao</name>
+<age>22</age>
+<phone>0904921331</phone>
+</customer>
+</listcustomers>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sinhvien
+[
+<!ELEMENT sinhvien (ma,hoten,gioitinh,diachi)>
+<!ELEMENT ma (#PCDATA)> 
+<!ELEMENT hoten (#PCDATA)> 
+<!ELEMENT gioitinh (#PCDATA)> 
+<!ELEMENT diachi (phuong,thanhpho,tinh)>
+<!ELEMENT phuong (#PCDATA)> 
+<!ELEMENT thanhpho (#PCDATA)> 
+<!ELEMENT tinh (#PCDATA)> 
+]>
+<sinhvien>
+<ma>Nhat</ma>
+<hoten>VietNam</hoten>
+<gioitinh>Hello</gioitinh>
+<diachi>
+<phuong> Phuong</phuong>
+<thanhpho>Xa</thanhpho>
+<tinh>Tinh</tinh>
+</diachi>
+</sinhvien>
+
+
+

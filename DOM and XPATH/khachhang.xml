@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<listcustomers>
+	
+	<customer id="2"><name/><age>5</age><phone/></customer>
+<customer id="TH1"><name>Luong Thu Hien</name><age>20</age><phone>0396312298</phone></customer><customer id=""><name/><age/><phone/></customer></listcustomers>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Phongs>
+
+<Phong>
+<Maphong>P2</Maphong>
+<Tenphong>CNTT</Tenphong>
+</Phong>
+<Phong><Maphong>CNTT</Maphong><Tenphong>Phong nghiacute</Tenphong></Phong></Phongs>

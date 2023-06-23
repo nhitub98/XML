@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<!DOCTYPE luutrusach
+[
+<!ELEMENT luutrusach (linhvuc+)>
+<!ELEMENT linhvuc (sach+)>
+<!ELEMENT sach (tuade,tacgia+)>
+<!ELEMENT tuade (#PCDATA)>
+<!ELEMENT tacgia (matacgia,tentacgia?,diachi,sdt?)>
+<!ELEMENT matacgia (#PCDATA)>
+<!ELEMENT tentacgia (#PCDATA)>
+<!ELEMENT diachi (xa,huyen,tinh)>
+<!ELEMENT xa (#PCDATA)>
+<!ELEMENT huyen (#PCDATA)>
+<!ELEMENT tinh (#PCDATA)>
+<!ELEMENT sdt (#PCDATA)>
+]>
+<luutrusach>
+<linhvuc>
+<sach>
+<tuade>truyen</tuade>
+<tacgia>
+<matacgia>1</matacgia>
+<tentacgia>Hien</tentacgia>
+<diachi>
+<xa>tien son</xa>
+<huyen>viet yen</huyen>
+<tinh>bac giang</tinh>
+</diachi>
+<sdt>0335800180</sdt>
+</tacgia>
+
+<tacgia>
+<matacgia>1</matacgia>
+<tentacgia>Hien</tentacgia>
+<diachi>
+<xa>tien son</xa>
+<huyen>viet yen</huyen>
+<tinh>bac giang</tinh>
+</diachi>
+<sdt>0335800180</sdt>
+</tacgia>
+
+</sach>
+</linhvuc>
+</luutrusach>
+

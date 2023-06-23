@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<qlnv>
+<Nhanvien>
+<manv>520100010</manv>
+<tennv>Luong Thu Hien</tennv>
+<maphong>CNTT</maphong>
+</Nhanvien>
+
+<Nhanvien>
+<manv>520100</manv>
+<tennv>thao</tennv>
+<maphong>TTDPT</maphong>
+</Nhanvien>
+<Nhanvien><manv>2001</manv><tennv>Hien</tennv><maphong>CNTT</maphong></Nhanvien><Nhanvien><manv>2000</manv><tennv>Quang</tennv><maphong>CNTT</maphong></Nhanvien><Nhanvien><manv>2805</manv><tennv>Ha My</tennv><maphong>CNTT</maphong></Nhanvien><Nhanvien><manv>2502</manv><tennv>Hanh</tennv><maphong>TTDPT</maphong></Nhanvien><Nhanvien><manv>1909</manv><tennv>To Hoang Nam</tennv><maphong>MKT</maphong></Nhanvien></qlnv>

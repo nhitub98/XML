@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<books>
+<book>
+<author>Jack Herrington</author>
+<publisher>O.Reilly</publisher>
+<title>PHP Hacks</title>
+</book>
+<book>
+<author>Jack Herrington</author>
+<publisher>O.Reilly</publisher>
+<title>Podcasting Hacks</title>
+</book>
+</books>

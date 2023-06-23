@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<qldh>
+<Donhang>
+  <Makh>123</Makh>
+  <Mahang>h01</Mahang>
+  <Tenhang>Bep tu</Tenhang>
+  <Dongia>300000</Dongia>
+</Donhang>
+
+<Donhang>
+  <Makh>122</Makh>
+  <Mahang>h02</Mahang>
+  <Tenhang>Ti vi</Tenhang>
+  <Dongia>500000</Dongia>
+</Donhang>
+
+
+</qldh>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<qlx>
+  <xe>
+    <maxe>123</maxe>
+    <ngayxuatxuong>1/1/2023</ngayxuatxuong>
+    <mansx>1</mansx>
+    <tenxe>oto</tenxe>
+    <gia>10000000</gia>
+  </xe>
+  <xe>
+    <maxe>122</maxe>
+    <ngayxuatxuong>4/1/2023</ngayxuatxuong>
+    <mansx>2</mansx>
+    <tenxe>xemay</tenxe>
+    <gia>100000</gia>
+  </xe>
+<xe><maxe>144</maxe><ngayxuatxuong>5/6/2023</ngayxuatxuong><mansx>3</mansx><tenxe>xe dien</tenxe><gia>15000</gia></xe></qlx>

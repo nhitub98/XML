@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE donhang
+[
+
+<!ELEMENT donhang (makhachhang,tenkhachhang,diachilienlac,danhsachmathang)>
+<!ELEMENT makhachhang (#PCDATA)> 
+<!ELEMENT tenkhachhang (#PCDATA)> 
+<!ELEMENT diachilienlac (#PCDATA)> 
+<!ELEMENT danhsachmathang (mathang+)>
+<!ELEMENT mathang (mamathang,tenmathang,soluong,dongia)>
+<!ELEMENT mamathang (#PCDATA)> 
+<!ELEMENT tenmathang (#PCDATA)> 
+<!ELEMENT soluong (#PCDATA)> 
+<!ELEMENT dongia (#PCDATA)> 
+]>
+<donhang>
+<makhachhang>Nhat</makhachhang>
+<tenkhachhang>VietNam</tenkhachhang>
+<diachilienlac>Hello</diachilienlac>
+<danhsachmathang>
+<mathang>
+<mamathang></mamathang>
+<tenmathang	></tenmathang>
+<soluong></soluong>
+<dongia></dongia>
+</mathang>
+</danhsachmathang>
+</donhang>

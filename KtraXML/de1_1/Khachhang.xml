@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<qlkh>
+<Khachhang>
+<makhach>1998</makhach>
+<hodem>Luong</hodem>
+<ten>Thu Hien</ten>
+<diachi>Quang Ninh</diachi>
+<dienthoai>0396312298</dienthoai>
+<madichvu>dv1</madichvu>
+</Khachhang>
+<Khachhang>
+<makhach>2002</makhach>
+<hodem>To Hoang</hodem>
+<ten>Nam</ten>
+<diachi>Ha Noi</diachi>
+<dienthoai>0904921331</dienthoai>
+<madichvu>dv2</madichvu>
+</Khachhang>
+<Khachhang>
+<makhach>kh10</makhach>
+<hodem>Nguyen Thi</hodem>
+<ten>Hanh</ten>
+<diachi>Bac Giang</diachi>
+<dienthoai>01684648472</dienthoai>
+<madichvu>dv3</madichvu>
+</Khachhang>
+<Khachhang>
+<makhach>1998</makhach>
+<hodem>Tran</hodem>
+<ten>Thi Hai</ten>
+<diachi>Bac Ninh</diachi>
+<dienthoai>34354</dienthoai>
+<madichvu>dv5</madichvu>
+</Khachhang></qlkh>

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<!DOCTYPE thuvien
+[
+<!ELEMENT thuvien (sach+)>
+<!ELEMENT sach (id,ten,tacGia, nhaXuatBan?,gia?)>
+<!ELEMENT id (#PCDATA)> 
+<!ELEMENT ten (#PCDATA)> 
+<!ELEMENT tacGia (#PCDATA)> 
+<!ELEMENT nhaXuatBan (#PCDATA)> 
+<!ELEMENT gia (#PCDATA)> 
+<!ATTLIST sach theloai (Khoahoc|Giaitri|Tinhoc) "Tinhoc"> 
+<!ATTLIST sach ngonngu CDATA #IMPLIED>
+<!ENTITY nxbt "Nha xuat ban tre">
+<!ENTITY nxbt "Nha xuat ban giao duc">
+]>
+<thuvien>
+<sach theloai="Khoahoc">
+<id>S01</id>
+<ten>Dien toan dam may</ten>
+<tacGia>Nguyen Khanh Tung</tacGia>
+<nhaXuatBan>nxb</nhaXuatBan>
+<gia>10000</gia>
+</sach>
+<sach theloai="Tinhoc">
+<id>S02</id>
+<ten>Truyen Kieu</ten>
+<tacGia>Nguyen Du</tacGia>
+<nhaXuatBan>nxb tp HCM</nhaXuatBan>
+<gia>10000</gia>
+</sach>
+</thuvien>

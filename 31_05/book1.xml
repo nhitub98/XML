@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<books xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="book1.xsd">
+<book isbn="12">
+<author>Patrick</author>
+<title type="P"> XML Comprehensive</title>
+<edition> 2</edition>
+</book>
+<book isbn="13">
+<author>Harry</author>
+<title type="H">XML Comprehensive</title>
+<edition>3</edition>
+</book>
+<book issbn="14">
+<author>Peter</author>
+<title type="X">XML Comprehensive</title>
+<edition>4</edition>
+</book>
+</books>

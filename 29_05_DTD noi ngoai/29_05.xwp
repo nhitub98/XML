@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<project name="29_05.xwp" homepath="C:\Users\admin\Desktop\XML" example_xsl="" example_xml="" output_folder="" output_ext="">
+	<group name="DTD/Schema Files" filter="*.dtd;*.xsd" description="This folder contains DTDs and XML Schema Files." example_xml="" example_xsl="" output_folder="" output_ext=""/>
+	<group name="Stylesheets" filter="*.css;*.xsl;*.xslt" description="This folder contains CSS and XSLT Stylesheets." example_xml="" example_xsl="" output_folder="" output_ext=""/>
+	<group name="XML Files" filter="*.xml" description="This folder contains XML Files." example_xml="" example_xsl="" output_folder="" output_ext="">
+		<file path="C:\Users\admin\Desktop\XML\sinhvien.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="C:\Users\admin\Desktop\XML\thuvien.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="C:\Users\admin\Desktop\XML\BookOrder.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="C:\Users\admin\Desktop\XML\luutrusach.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl="">
+			<open caret_pos_x="0" caret_pos_y="27" sel_start_x="0" sel_start_y="27" sel_end_x="9" sel_end_y="27" window_x1="431" window_x2="1487" window_y1="129" window_y2="503" state="1"/>
+		</file>
+		<file path="C:\Users\admin\Desktop\XML\donhang.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl="">
+			<open caret_pos_x="0" caret_pos_y="5" sel_start_x="0" sel_start_y="5" sel_end_x="33" sel_end_y="5" window_x1="260" window_x2="1316" window_y1="194" window_y2="568" state="1"/>
+		</file>
+	</group>
+	<group name="Output Files" filter="*.htm;*.html" description="This folder receives output from XSL transformations." example_xml="" example_xsl="" output_folder="" output_ext=""/>
+</project>

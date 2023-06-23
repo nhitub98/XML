@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<BookOrder>
+<OrderDate/>
+<Customer>
+<Title>HTML5</Title>
+<FirstName>201t</FirstName>
+<LastName>Nguyen Thi Minh Khai</LastName>
+</Customer>
+<Book>
+<Title>Ten sach</Title>
+<Author>Tac gia</Author>
+</Book>
+</BookOrder>

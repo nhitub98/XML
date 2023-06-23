@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="C:\Users\admin\Desktop\31_05\chuyen.xsl"?>
+<QLGV>
+<Giaovien>
+<MaGV>GV1</MaGV>
+<Hoten>Nguyen Thi Hanh</Hoten>
+<Gioitinh>Nu</Gioitinh>	
+</Giaovien>
+<Giaovien>
+<MaGV>GV2</MaGV>
+<Hoten>Nguyen Thi</Hoten>
+<Gioitinh>Nu</Gioitinh>	
+</Giaovien>
+<Giaovien>
+<MaGV>GV5</MaGV>
+<Hoten>Nguyen</Hoten>
+<Gioitinh>Nam</Gioitinh>	
+</Giaovien>
+</QLGV>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<qldh>
+<donhang>
+  <makh>123</makh>
+  <mahang>h01</mahang>
+  <tenhang>Bep tu</tenhang>
+  <dongia>300000</dongia>
+</donhang>
+
+<donhang>
+  <makh>122</makh>
+  <mahang>h02</mahang>
+  <tenhang>Ti vi</tenhang>
+  <dongia>500000</dongia>
+</donhang>
+
+
+<donhang><makh>122</makh><mahang>Cowm</mahang><tenhang>com</tenhang><dongia>12232</dongia></donhang><donhang><makh>122</makh><mahang>sp1</mahang><tenhang>Iphone 11 promax</tenhang><dongia>200000</dongia></donhang></qldh>

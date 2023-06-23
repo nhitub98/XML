@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<qlsx>
+  <NSX>
+    <mansx>1</mansx>
+    <tennsx>yamaha</tennsx>
+    <diachi>bg</diachi>
+    <dt>12345</dt>
+  </NSX>
+  <NSX>
+    <mansx>2</mansx>
+    <tennsx>honda</tennsx>
+    <diachi>HN</diachi>
+    <dt>12345678</dt>
+  </NSX>
+  <NSX>
+    <mansx>3</mansx>
+    <tennsx>SH</tennsx>
+    <diachi>QN</diachi>
+    <dt>09999</dt>
+  </NSX>
+</qlsx>

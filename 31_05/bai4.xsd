@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+	<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+<xsd:element name="monhoc">
+	<xsd:complexType>
+		<xsd:sequence>
+			<xsd:element name="Ma">
+				<xsd:simpleType>
+					<xsd:restriction base="xsd:string">
+					<xsd:pattern value="[a-z][0-9]{4}">
+					</xsd:pattern>
+					</xsd:restriction>
+				</xsd:simpleType>
+			</xsd:element>
+
+			<xsd:element name="Ten" type="xsd:string"/>
+			<xsd:element name="Sotc">
+				<xsd:simpleType>
+					<xsd:restriction base="xsd:integer">
+					<xsd:minInclusive value="1"/>
+					<xsd:maxInclusive value="5"/>
+					</xsd:restriction>
+				</xsd:simpleType>
+			</xsd:element>
+
+
+			<xsd:element name="Diem">
+				<xsd:simpleType>
+					<xsd:restriction base="xsd:decimal">
+					<xsd:minInclusive value="0"/>
+					<xsd:maxInclusive value="10"/>
+					</xsd:restriction>
+				</xsd:simpleType>
+			</xsd:element>
+		</xsd:sequence>
+	</xsd:complexType>
+</xsd:element>
+</xsd:schema>
